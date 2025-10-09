@@ -4,3 +4,4 @@
 * [典型90 16](atcoder/t90_16.md)
 * [典型90 14](atcoder/t90_14.md)
 * [典型90 07](atcoder/t90_07.md)
+* [典型90 02](atcoder/t90_02.md)
