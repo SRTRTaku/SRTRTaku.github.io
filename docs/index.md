@@ -7,7 +7,7 @@
 * [典型90 07](atcoder/t90_07.md)
 * [典型90 02](atcoder/t90_02.md)
 * [典型90 01](atcoder/t90_01.md)
-* [典型90 26](atcoder/t90_01.md)
+* [典型90 26](atcoder/t90_26.md)
 
 ### ABC
 * [abc428](atcoder/abc428.md)
